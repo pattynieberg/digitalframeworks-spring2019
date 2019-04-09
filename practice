@@ -19,5 +19,8 @@ _this is italic_
  ------------ | -------------
  content from cell 1 | content from cell 2
  content in the first column | content in the second column
+ 
+ For links
+ [text](url)
    
 
