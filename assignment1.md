@@ -1,5 +1,6 @@
-They can be broad for now, but the quicker you get to a specific idea, the easier it will be to complete further assignments. 
-Think about specific questions you would want to ask that data can help you find an answer to. For example:
+Assigment 1 
+Patty Nieberg
+-----
 
 **Story Idea One**
 How has the U.S. foreign assistance aid towards health changed over time?
