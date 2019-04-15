@@ -1,5 +1,4 @@
-Assigment 1 
-Patty Nieberg
+Assigment 1 | Patty Nieberg
 -----
 
 **Story Idea One**
