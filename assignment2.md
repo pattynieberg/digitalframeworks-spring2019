@@ -1,7 +1,7 @@
 Food Recalls over the last decade 
 
 Year | Amount | Contamination Recall | Misbranding Recall | Inspection Recall | Other
- ------------ | -------------
+ ------------ | -------------------- | ------------------ | ----------------- |
  2018 | 125 | 49 | 28 | 19 
  2017 | 131 | 59 | 64 | 11 
  2016 | 122 | 54 | 45 | 21
