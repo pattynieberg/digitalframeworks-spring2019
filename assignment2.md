@@ -17,3 +17,7 @@ contamination, misbranding and inspection it may tell us more about the food sys
 whether the use of more chemicals and less regulation has affected the USDA's recalls. 
 For this I used the USDA archive of recalls which I would also like to compare to food 
 related deaths over time, changes in laws and the opinions of food science experts. 
+I would get statistics for food related deaths from the department of health, look at 
+bills in congress that either became law, were sent to committee and died in the Senate 
+or the House. This story would show the evolution of our food system which will recall 
+larger themes of climate change, government regulation and the U.S. food system. 
