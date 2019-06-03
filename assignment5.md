@@ -19,4 +19,4 @@ Since sexual encounters outside of a formal union may be viewed negatively, the 
 
 **Female Global Contraceptive Use Data Limited by Social Acceptability**
 
-In the 21st century, data collected about contraceptive use is still limited to socially acceptable responses. While contraceptive use in many African nations has declined according to the data collected by , this may not be telling of the global female population. 
+In the 21st century, data collected about contraceptive use is still limited to socially acceptable responses. While contraceptive use in many African nations has declined according to the data collected by , this may not be telling of the global female population. Data collected pertaining to a certain age group of women is biased for only accounting certain ages when women are considered healthy enough to have children as opposed to a wider range of possibilties due to modern medicine. 
