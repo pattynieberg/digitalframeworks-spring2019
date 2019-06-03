@@ -15,3 +15,8 @@ Israel, Iceland, Lichiestein, Kosovo, Latvia, Luxembourg, St Martin, Macao (chin
 **Who does this account for? Who doesn’t the data account for?**
 The data is defined as: "Contraceptive prevalence rate is the percentage of women who are practicing, or whose sexual partners are practicing, any form of contraception. It is usually measured for women ages 15-49 who are married or in union."
 Since sexual encounters outside of a formal union may be viewed negatively, the data is skewed to only represent married women or those who report uder those circumstances. It is also limited to ages 15-49 which is the ideal age range for having children. However, women obviously still engage in sexual encounters before and beyond this range.
+
+
+**Female Global Contraceptive Use Data Limited by Social Acceptability**
+
+In the 21st century, data collected about contraceptive use is still limited to socially acceptable responses. While contraceptive use in many African nations has declined according to the data collected by , this may not be telling of the global female population. 
