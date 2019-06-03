@@ -1,9 +1,9 @@
-
+My [data set](https://github.com/pattynieberg/digitalframeworks-spring2019/blob/master/Contraception_Cleaned_Data.xls)
 
 Cleaning the data:
-*Changed the years recorded to reflect the 21st century (2000-2019)
-*Deleted the countries which no values
-*Inserted zeros for empty values
+1. Changed the years recorded to reflect the 21st century (2000-2019)
+2. Deleted the countries which no values
+3. Inserted zeros for empty values
 
 Where has contraceptive use declined?  In which region of the world? Which countries?
 As contraception use increased overall, many African countries actually had lower numbers of contraceptive use. Without being able to do the excel anaylsis, this is as in depth as I could go.
