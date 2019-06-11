@@ -15,5 +15,5 @@ To analyze the data I structured a pivot table with the occupation which would g
 about the type of scientists, ie Mechanical, Chemsitry, Air Pollution, Food, etc which would give more context 
 towards political leaning. 
 
-I also looked at the groups with the largest scientific communities who donated which included Act Blue, Bernie 2016, Bennet For Colorado, , DCC and more. 
+I also looked at the groups with the largest scientific communities who donated which included Act Blue, Bernie 2016, Bennet For Colorado, DCCC and more. 
 Most of the larger groups were Democratic PACs however like I mentioned, other groups contributed large amounts. To continue, I would go through each PAC and do a breakdown of their spending so we have a better idea of the figures FOR/AGAINST Republicans and Democrats. I would also see if this changes during the midterm elections since that might be more of a place where scientists see Congress as more effective for science policy -- especially during the Trump administration.
